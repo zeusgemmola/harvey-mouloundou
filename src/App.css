@@ -1,0 +1,10 @@
+.App .card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+ul {
+  padding: 0;
+  margin: 10;
+  text-align: right;
+}
